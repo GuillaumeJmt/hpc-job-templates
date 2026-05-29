@@ -25,6 +25,4 @@ Developed from real experience running quantum chemistry calculations
 - Check `sacct -j JOBID --format=MaxRSS` to calibrate memory requests
 
 ## Environment
-
-Tested against CECI cluster conventions (Lemaitre4, Nic5).
-Adaptable to any Slurm-managed HPC infrastructure.
+Developed for CECI-compatible Slurm environments (Lemaitre4, Nic5 conventions).
